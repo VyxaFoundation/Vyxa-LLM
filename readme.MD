@@ -70,9 +70,11 @@ Architecture: LLaMA-based
 Parameters: 70.6B
 Quantization: Q4_K_M (43GB)
 License: MIT License
-Memory Requirement: 43GB (Quantized), 140GB (Full Precision)
+Memory Requirement: 43GB (Quantized), 140GB 
+(Full Precision)
 
 🔥 Advanced Usage
+
 🔹 Running Vyxa in Interactive Mode
 To chat with Vyxa in real time:
 
