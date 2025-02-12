@@ -132,8 +132,8 @@ ollama run VyxaFoundation/Vyxa -t 0.7 -p "Generate Solidity code for an ERC-20 t
 
 ---
 
-## 🌐 Stay Connected
+## Stay Connected
 
 💻 **Website:** [Vyxa.org](https://www.vyxa.org/)  
 📂 **GitHub:** [Vyxa GitHub](https://github.com/VyxaFoundation)  
-🐦 **Twitter/X:** [@VyxaFoundation](https://x.com/vyxaFoundation)
+𝕏 **Twitter/X:** [@VyxaFoundation](https://x.com/vyxaFoundation)
