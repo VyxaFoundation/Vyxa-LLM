@@ -1,5 +1,5 @@
 # Vyxa LLM 
-
+ 
 Vyxa is an **open-source large language model (LLM)** optimized for **Web3 developers, AI researchers, and decentralized applications**. It supports **smart contract auditing, blockchain analytics, and DeFi automation**.  
 
 ---
