@@ -54,7 +54,7 @@ ollama serve
 ```
 
 ### 🔹 Make a Request via Curl
-```bash
+```json
 curl -X POST "http://localhost:11434/api/generate"      -H "Content-Type: application/json"      -d '{"model": "VyxaFoundation/Vyxa", "prompt": "Write a smart contract"}'
 ```
 
