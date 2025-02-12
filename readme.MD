@@ -64,7 +64,7 @@ curl -X POST "http://localhost:11434/api/generate" \
     "response": "pragma solidity ^0.8.0; contract Vyxa { ... }"
   }
 }
-
+```
 ⚙️ Model Details
 Architecture: LLaMA-based
 Parameters: 70.6B
