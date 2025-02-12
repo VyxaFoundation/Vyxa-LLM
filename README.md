@@ -41,7 +41,7 @@ Run the model:
 ```bash
 ollama run VyxaFoundation/Vyxa
 ```
-
+ 
 ---
 
 ## 🔧 API Integration (Optional)
