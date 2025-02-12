@@ -30,7 +30,7 @@ ollama --version
 
 ### 🔹 Step 2: Download & Run Vyxa
 
-Once Ollama is installed, pull the Vyxa LLM model:
+Once Ollama is installed, pull the [Vyxa LLM](https://ollama.com/VyxaFoundation/Vyxa)  model:
 
 ```bash
 ollama pull VyxaFoundation/Vyxa
