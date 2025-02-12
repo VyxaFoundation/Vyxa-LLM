@@ -95,23 +95,33 @@ ollama run VyxaFoundation/Vyxa -t 0.7 -p "Generate Solidity code for an ERC-20 t
 ```
 
 🌍 Roadmap & Future Updates
+
 🔹 Upcoming Features:
+
 ✅ Vyxa-Next (Lightweight Model for Mobile & Edge AI)
+
 ✅ Vyxa Chat (AI-Powered Web3 Conversational Model)
+
 ✅ Decentralized AI Compute (Vyxa x Akash, Bittensor, Solana)
+
 ✅ On-Chain AI Oracles for Smart Contracts
 
 
 📌 Troubleshooting
 
+
 🔹 Model download is slow?
+
 Use a VPN or a faster mirror.
 
 🔹 Model runs out of memory?
+
 Try running a lower quantization version (Q4, Q6).
 
 🔹 Ollama is not recognized?
+
 Ensure Ollama is installed and added to your system’s PATH.
+
 
 🌐 Stay Connected  
 Join our community for updates and support:
