@@ -101,6 +101,7 @@ ollama run VyxaFoundation/Vyxa -t 0.7 -p "Generate Solidity code for an ERC-20 t
 ✅ Decentralized AI Compute (Vyxa x Akash, Bittensor, Solana)
 ✅ On-Chain AI Oracles for Smart Contracts
 
+
 📌 Troubleshooting
 
 🔹 Model download is slow?
