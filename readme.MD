@@ -102,6 +102,7 @@ ollama run VyxaFoundation/Vyxa -t 0.7 -p "Generate Solidity code for an ERC-20 t
 ✅ On-Chain AI Oracles for Smart Contracts
 
 📌 Troubleshooting
+
 🔹 Model download is slow?
 Use a VPN or a faster mirror.
 
@@ -115,9 +116,13 @@ Ensure Ollama is installed and added to your system’s PATH.
 Join our community for updates and support:
 
 🌍 [Website: Vyxa.org](https://www.vyxa.org/)  
+
 🛠 [GitHub: Vyxa GitHub](https://github.com/VyxaFoundation)  
+
 📖 [Docs: Vyxa Documentation](https://www.vyxa.org/docs)  
+
 🐦 [Twitter: @VyxaFoundation](https://x.com/vyxaFoundation)
+
 
 
 
